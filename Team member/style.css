@@ -1,0 +1,28 @@
+* {
+  margin: 0px;
+  padding: 0px;
+}
+.team {
+  background-color: #ebeb52;
+  text-align: center;
+  padding: 30px 0px;
+  width: 33.33%;
+  float: left;
+}
+.team img {
+  width: 250px;
+  height: 250px;
+  border-radius: 50%;
+}
+.team h2 {
+  font-family: Georgia;
+  font-weight: normal;
+  font-size: 35px;
+  text-transform: uppercase;
+  color: #fff;
+}
+.team p {
+  font-size: 14px;
+  color: rgb(17, 17, 15);
+  font-family: Verdana;
+}

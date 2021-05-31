@@ -1,0 +1,204 @@
+* {
+  margin: 0%;
+  background-color: #f3ebeb;
+}
+
+.bd-green {
+  width: 500px;
+  height: 300px;
+  background-color: green;
+  text-align: center;
+  overflow: hidden;
+  margin: 100px auto;
+}
+.red {
+  width: 170px;
+  height: 170px;
+  background-color: red;
+  border-radius: 50%;
+  margin: 65px 190px auto;
+}
+.japan {
+  width: 500px;
+  height: 300px;
+  background-color: white;
+  text-align: center;
+  overflow: hidden;
+  margin: 100px auto;
+}
+
+.garman-flag {
+  width: 500px;
+  height: 100px;
+  background-color: red;
+  border-top: 100px solid black;
+  border-bottom: 100px solid yellow;
+  margin: 100px auto;
+}
+.argentina-flag {
+  width: 500px;
+  height: 100px;
+  background-color: white;
+  border-top: 100px solid skyblue;
+  border-bottom: 100px solid skyblue;
+  margin: 100px auto;
+  text-align: center;
+  overflow: hidden;
+}
+.argentina-flag img {
+  width: auto;
+}
+
+.canada-flag {
+  width: 200px;
+  height: 300px;
+  background-color: white;
+  border-left: 150px solid red;
+  border-right: 150px solid red;
+  margin: 100px auto;
+  text-align: center;
+  overflow: hidden;
+}
+.canada-flag img {
+  width: auto;
+  margin-top: 90px;
+}
+
+.afghanistan-flag {
+  width: 200px;
+  height: 300px;
+  background-color: red;
+  border-left: 175px solid black;
+  border-right: 175px solid green;
+  margin: 100px auto;
+  text-align: center;
+  overflow: hidden;
+}
+.afghanistan-flag img {
+  width: auto;
+  margin-top: 70px;
+}
+.andorra-flag {
+  width: 200px;
+  height: 300px;
+  background-color: yellow;
+  border-left: 175px solid blue;
+  border-right: 175px solid red;
+  margin: 100px auto;
+  overflow: hidden;
+  text-align: center;
+}
+.andorra-flag img {
+  width: auto;
+  margin-top: 90px;
+}
+.armenia-flag {
+  width: 500px;
+  height: 100px;
+  background-color: blue;
+  border-top: 100px solid red;
+  border-bottom: 100px solid gold;
+  margin: 100px auto;
+}
+.armenia-flag {
+  width: 500px;
+  height: 100px;
+  background-color: white;
+  border-top: 100px solid red;
+  border-bottom: 100px solid red;
+  margin: 100px auto;
+}
+
+.barbados-flag {
+  width: 200px;
+  height: 300px;
+  background-color: yellow;
+  border-left: 175px solid blue;
+  border-right: 175px solid blue;
+  margin: 100px auto;
+  overflow: hidden;
+  text-align: center;
+}
+.barbados-flag img {
+  width: auto;
+  margin-top: 90px;
+}
+.belgium-flag {
+  width: 200px;
+  height: 350px;
+  background-color: gold;
+  border-left: 175px solid black;
+  border-right: 175px solid red;
+  margin: 100px auto;
+  overflow: hidden;
+  text-align: center;
+}
+
+.bolivia-flag {
+  width: 500px;
+  height: 100px;
+  background-color: yellow;
+  border-top: 100px solid red;
+  border-bottom: 100px solid green;
+  margin: 100px auto;
+  overflow: hidden;
+  text-align: center;
+}
+.bolivia-flag img {
+  width: auto;
+  margin-top: 10px;
+}
+
+.botswana-flag {
+  width: 500px;
+  height: 100px;
+  background-color: white;
+  border-top: 100px solid skyblue;
+  border-bottom: 100px solid skyblue;
+  margin: 100px auto;
+  overflow: hidden;
+}
+
+.mali-flag {
+  width: 200px;
+  height: 300px;
+  background-color: goldenrod;
+  border-left: 175px solid green;
+  border-right: 175px solid red;
+  margin: 100px auto;
+  overflow: hidden;
+}
+
+.maxico-flag {
+  width: 200px;
+  height: 300px;
+  background-color: white;
+  border-left: 175px solid darkgreen;
+  border-right: 175px solid red;
+  margin: 100px auto;
+  overflow: hidden;
+  text-align: center;
+}
+.maxico-flag img {
+  width: auto;
+  margin-top: 90px;
+}
+
+.france-flag {
+  width: 200px;
+  height: 300px;
+  background-color: white;
+  border-left: 175px solid blue;
+  border-right: 175px solid red;
+  margin: 100px auto;
+  overflow: hidden;
+}
+.chad-flag {
+  width: 200px;
+  height: 300px;
+  background-color: yellow;
+  border-left: 175px solid blue;
+  border-right: 175px solid red;
+  margin: 100px auto;
+  overflow: hidden;
+}
